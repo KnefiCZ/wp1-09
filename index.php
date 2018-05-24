@@ -9,10 +9,14 @@
 <?php
     $Salary = 90000 ;
     $Car = 1000000 ;
+    $Vila = True ;
 ?>
 <?php
-    if (($Salary >= 80000) && ($Car >= 500000) ) {
+    if (($Salary >= 80000) && ($Car >= 500000) && ($Vila) {
       echo "Pravá kurva";
+    }
+    elseif ($) {
+      // code...
     }
     elseif ($Salary >= 80000) {
       echo "Pražačka";
@@ -20,8 +24,8 @@
     else {
       echo "Hodná holka";
     }
- ?>
 
+ ?>
 
 
   </body>
