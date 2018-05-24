@@ -15,8 +15,8 @@
     if (($Salary >= 80000) && ($Car >= 500000) && ($Vila) {
       echo "Pravá kurva";
     }
-    elseif ($) {
-      // code...
+    elseif (($Salary >= 80000) && ($Vila) {
+
     }
     elseif ($Salary >= 80000) {
       echo "Pražačka";
