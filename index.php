@@ -7,17 +7,15 @@
   <body>
 <h1>Holky a plat</h1>
 <?php
-    $Salary = 90000 ;
-    $Car = 1000000 ;
+    $Salary = 80000 ;
+    $Car = 500000 ;
     $Vila = True ;
 ?>
 <?php
-    if (($Salary >= 80000) && ($Car >= 500000) && ($Vila) {
+    if (($Salary >= 80000) && ($Car >= 500000) || ($Vila)) {
       echo "Pravá kurva";
     }
-    elseif (($Salary >= 80000) && ($Vila) {
 
-    }
     elseif ($Salary >= 80000) {
       echo "Pražačka";
     }
